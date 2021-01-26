@@ -8,6 +8,7 @@ public class Main {
         System.out.println(hat(18, 23));
         System.out.println(hat(34, 45));
         System.out.println(hat(25, 55));
+        System.out.println(hat(65,45));
     }
 
     public static String hat(int age, int temp){
@@ -24,5 +25,5 @@ public class Main {
             return "Оставайтесь дома";
         }
     }
-}              
+}
 
